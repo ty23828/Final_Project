@@ -287,6 +287,4 @@ This project is part of academic research. Please cite appropriately if used in 
 
 ---
 
-**Contact**: [Your contact information]
-**Institution**: University College London (UCL)
-**Project**: FWI Resolution Increase - Final
+
